@@ -1,4 +1,4 @@
-const apiUrl = "http://localhost:8000/api.php";
+const apiUrl = "https://api-libreria.onrender.com";
 
 
 // Obtener todos los libros (GET)
